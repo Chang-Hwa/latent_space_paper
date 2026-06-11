@@ -1,0 +1,14 @@
+models/*
+models/*.pkl
+models/*.h5
+models/*.model
+models/*.pt
+models/*.pth
+
+!models/.gitkeep
+
+results/*
+!results/.gitkeep
+
+data/*
+!data/.gitkeep
